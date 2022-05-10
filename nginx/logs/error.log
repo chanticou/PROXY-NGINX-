@@ -1,0 +1,67 @@
+2022/05/07 10:25:09 [error] 12628#1828: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/05/09 10:21:23 [notice] 11592#5216: signal process started
+2022/05/09 10:21:23 [error] 11592#5216: OpenEvent("Global\ngx_reload_5896") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/09 10:25:04 [notice] 9708#9760: signal process started
+2022/05/09 10:25:04 [error] 9708#9760: OpenEvent("Global\ngx_reload_5896") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/09 10:27:04 [notice] 9724#10924: signal process started
+2022/05/09 10:27:04 [error] 9724#10924: OpenEvent("Global\ngx_reload_5896") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/09 10:28:22 [notice] 2076#884: signal process started
+2022/05/09 10:29:24 [notice] 5824#2668: signal process started
+2022/05/09 10:30:07 [notice] 108#5972: signal process started
+2022/05/09 10:33:33 [notice] 8300#10400: signal process started
+2022/05/09 10:33:56 [notice] 5824#11024: signal process started
+2022/05/09 10:34:42 [notice] 8204#8280: signal process started
+2022/05/09 10:56:24 [error] 8836#4900: *4 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\servidor-balance-carga\Sessions-passport\nginx/html/js/index.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /js/index.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/05/09 10:57:22 [error] 8836#4900: *4 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\servidor-balance-carga\Sessions-passport\nginx/html/js/index.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /js/index.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/05/09 10:59:17 [error] 11852#5844: *1 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\servidor-balance-carga\Sessions-passport\nginx/html/js/index.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /js/index.js HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/"
+2022/05/09 10:59:17 [error] 11852#5844: *1 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\servidor-balance-carga\Sessions-passport\nginx/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/"
+2022/05/09 11:00:55 [error] 11852#5844: *4 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\servidor-balance-carga\Sessions-passport\nginx/html/js/index.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /js/index.js HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/"
+2022/05/09 11:52:00 [emerg] 1996#8540: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\servidor-balance-carga\Sessions-passport\nginx/conf/nginx.conf:37
+2022/05/09 11:52:00 [alert] 6908#7132: worker process 1996 exited with code 1
+2022/05/09 11:52:00 [alert] 6908#7132: could not respawn worker
+2022/05/10 09:08:34 [emerg] 15872#10248: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:37
+2022/05/10 09:09:14 [emerg] 15568#9852: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:37
+2022/05/10 09:13:48 [emerg] 9040#16828: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:37
+2022/05/10 09:15:38 [emerg] 3168#9936: directive "server" is not terminated by ";" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:40
+2022/05/10 09:16:35 [emerg] 13040#5668: directive "server" is not terminated by ";" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:40
+2022/05/10 09:16:53 [emerg] 8888#10788: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:37
+2022/05/10 09:17:06 [emerg] 11752#13820: directive "server" is not terminated by ";" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:40
+2022/05/10 09:25:36 [emerg] 18056#17844: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:37
+2022/05/10 09:31:15 [emerg] 15468#13212: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:37
+2022/05/10 09:33:32 [emerg] 2668#8496: invalid parameter "weigth=3" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:36
+2022/05/10 09:33:43 [emerg] 10856#1220: unexpected "}" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:51
+2022/05/10 09:34:07 [emerg] 13620#4592: invalid number of arguments in "root" directive in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:50
+2022/05/10 09:34:35 [emerg] 16884#10864: invalid number of arguments in "root" directive in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:50
+2022/05/10 09:34:55 [emerg] 3612#6392: unknown directive "location/datos/" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:53
+2022/05/10 09:35:36 [emerg] 2656#12580: unknown directive "location/datos/" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:53
+2022/05/10 09:36:55 [notice] 3988#16768: signal process started
+2022/05/10 09:36:55 [error] 3988#16768: OpenEvent("Global\ngx_reload_6908") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/10 09:37:12 [notice] 4480#13132: signal process started
+2022/05/10 09:37:12 [error] 4480#13132: OpenEvent("Global\ngx_reload_6908") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/10 09:37:31 [emerg] 6088#18068: unknown directive "location/datos/" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:53
+2022/05/10 09:49:13 [emerg] 12128#12204: unknown directive "location/datos/" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:53
+2022/05/10 09:54:35 [notice] 9680#11048: signal process started
+2022/05/10 09:54:35 [error] 9680#11048: OpenEvent("Global\ngx_reload_8096") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/10 09:57:41 [notice] 4820#10048: signal process started
+2022/05/10 09:57:41 [error] 4820#10048: OpenEvent("Global\ngx_reload_8096") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/05/10 09:59:24 [notice] 5576#3208: signal process started
+2022/05/10 10:40:39 [error] 520#3056: *1 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:82", referrer: "http://localhost:82/"
+2022/05/10 10:45:26 [error] 520#3056: *4 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/html/info" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /info HTTP/1.1", host: "localhost:82"
+2022/05/10 10:46:12 [error] 520#3056: *4 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/html/info" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /info HTTP/1.1", host: "localhost:82"
+2022/05/10 10:46:14 [error] 520#3056: *4 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/html/info" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /info HTTP/1.1", host: "localhost:82"
+2022/05/10 14:48:28 [error] 520#3056: *11 CreateFile() "C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/html/randoms" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /randoms HTTP/1.1", host: "localhost:82"
+2022/05/10 15:08:25 [emerg] 4300#14284: unknown directive "app" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:09:03 [emerg] 17200#13244: unknown directive "app" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:12:12 [emerg] 14564#11188: unknown directive "app" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:12:56 [emerg] 5932#17368: invalid parameter "8081" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:13:10 [emerg] 16396#14880: invalid parameter "8080" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:14:39 [emerg] 16028#11680: unknown directive "app" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:14:51 [emerg] 8580#4852: unknown directive "app" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:17:33 [emerg] 11812#3704: unknown directive "app" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:35
+2022/05/10 15:18:46 [emerg] 4300#14552: unknown directive "location/datos/" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:53
+2022/05/10 15:19:01 [notice] 11368#12176: signal process started
+2022/05/10 15:59:26 [notice] 12280#7140: signal process started
+2022/05/10 16:35:24 [error] 2108#16652: *30 CreateFile() "./proyect/src/public/datos" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /datos HTTP/1.1", host: "localhost:82"
+2022/05/10 16:35:43 [error] 2108#16652: *30 "./proyect/src/public/datos/index.html" is not found (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /datos/ HTTP/1.1", host: "localhost:82"
+2022/05/10 16:35:44 [error] 2108#16652: *30 "./proyect/src/public/datos/index.html" is not found (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /datos/ HTTP/1.1", host: "localhost:82"
+2022/05/10 16:38:46 [emerg] 5168#16084: unknown directive "location/datos/" in C:\Users\chant\OneDrive\Escritorio\Escritorio\proxy-nginx\nginx/conf/nginx.conf:53
